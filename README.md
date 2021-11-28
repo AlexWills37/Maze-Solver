@@ -34,7 +34,7 @@ $ java MazeSolver <filename> <startX> <startY> <goalX> <goalY> (algorithm) (skip
   - false (default) - algorithm will be visualized with each step of the search
   - true - algorithm will not be visualized. Output image will still be displayed and saved
 
-## Examples
+## Example
 Input file
 
 ![prim_maze](https://user-images.githubusercontent.com/77563588/143785247-9aff9a14-3f13-46ed-a74f-5e5b12db6b68.png)
