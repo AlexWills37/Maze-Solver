@@ -35,6 +35,13 @@ $ java MazeSolver <filename> <startX> <startY> <goalX> <goalY> (algorithm) (skip
   - true - algorithm will not be visualized. Output image will still be displayed and saved
 
 ## Example
+
+
+
+https://user-images.githubusercontent.com/77563588/143918817-4bbcdbf8-03ac-4018-a977-f1e953320d41.mp4
+
+This video has been sped up
+
 Input file
 
 ![prim_maze](https://user-images.githubusercontent.com/77563588/143785247-9aff9a14-3f13-46ed-a74f-5e5b12db6b68.png)
